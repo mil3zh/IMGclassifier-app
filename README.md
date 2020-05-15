@@ -1,6 +1,6 @@
 # Image classifier on [Render](https://render.com) :bear:
 
-This repo contain my [fast.ai](https://github.com/fastai/fastai) model to classify bear images.
+This repo contains my [fast.ai](https://github.com/fastai/fastai) model to classify bear images.
 
 Check my image classifier at https://fastai-v3.onrender.com. Test it out with bear images!
 
